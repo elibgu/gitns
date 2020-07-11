@@ -1,2 +1,0 @@
-# gitns
-test gitns
